@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This another page on our website.
 
-![](https://github.com/ericlingerfelt/collab-research/blob/gh-pages/db075.jpg)
+![](db075.jpg)
 
