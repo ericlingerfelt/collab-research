@@ -11,5 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This another page on our website.
 
+A nice picture
+
 ![](db075.jpg)
 
