@@ -1,0 +1,15 @@
+---
+title: "another_page"
+author: "Ken"
+date: "13 March 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This another page on our website.
+
+![](https://github.com/ericlingerfelt/collab-research/blob/gh-pages/db075.jpg)
+
